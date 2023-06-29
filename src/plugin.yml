@@ -1,0 +1,6 @@
+name: PacketPrinter
+version: 1.0
+depend: [ProtocolLib]
+author: Kyrobi
+main: me.kyrobi.Main
+api-version: '1.19'

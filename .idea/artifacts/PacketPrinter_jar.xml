@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PacketPrinter:jar">
+    <output-path>$PROJECT_DIR$/../../../..</output-path>
+    <root id="archive" name="PacketPrinter.jar">
+      <element id="module-output" name="PacketPrinter" />
+    </root>
+  </artifact>
+</component>
